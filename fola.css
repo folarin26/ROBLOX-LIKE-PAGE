@@ -1,0 +1,30 @@
+*{
+     margin: 0%;
+     padding: 0;
+     box-sizing: border-box;
+}
+form{
+    width: 60%;
+    margin: auto;
+    /* border: 2px solid blue; */
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 100px;
+    background-color: #ccc;
+    background-color: rgb(255, 255, 255);
+}
+input{
+    width: 100%;
+    padding: 12px 25px;
+    margin-top: 10px;
+}
+button{
+    padding: 12px 25px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(179, 173, 185);
+    border: none;
+    cursor: pointer;
+}
